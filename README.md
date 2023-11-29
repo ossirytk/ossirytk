@@ -14,6 +14,7 @@ I'm a Devops engineer from Finland working for Polar Electro.
             <li>I'm doing some chatbot development with langchain and chainlit</li>
             <li>I'm exploring AI document memory with chroma vector database</li>
         </ul>
+    <li>Currently studying machine learning NLP and NER technologies</li>
 </ul>
 
 ### 🛠 Languages and tools
