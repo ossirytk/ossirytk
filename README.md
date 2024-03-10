@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "LinkedId image")](https://fi.linkedin.com/in/ossi-markus-rytk%C3%B6nen-47520b71)
 ### About me
-I'm a Devops engineer from Finland working for Polar Electro.
+I'm a Senior Devops engineer from Finland working for Polar Electro.
 <ul>
     <li>I have been working as a programmer since 2013. I have worked in: </li>
         <ul>
