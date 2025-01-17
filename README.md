@@ -1,44 +1,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white "LinkedId image")](https://fi.linkedin.com/in/ossi-markus-rytk%C3%B6nen-47520b71)
 ### About me
-I'm a Senior Devops engineer from Finland working for Polar Electro.
+I'm a Senior Embedded Devops engineer from Finland.
 <ul>
-    <li>I have been working as a programmer since 2013. I have worked in: </li>
-        <ul>
-            <li>Web fullstack</li>
-            <li>Embedded software development</li>
-            <li>Embedded ci devops</li>
-        </ul>
     <li>I'm interested in llm and AI technologies</li>
         <ul>
-            <li>I am exploring running llm's locally on cpu with gpu acceleration</li>
-            <li>I'm doing some chatbot development with langchain and chainlit</li>
-            <li>I'm exploring AI document memory with chroma vector database</li>
+            <li>AI memory with vector databases and natural language processing</li>
+            <li>Chatbot development with rust/li>
+            <li>Embedded device development with rust</li>
         </ul>
-    <li>Currently studying machine learning NLP and NER technologies</li>
 </ul>
 
 ### 🛠 Languages and tools
 Languages I mostly use
 <ul>
-    <li>Java</li>
-    <li>Groovy</li>
     <li>Rust</li>
     <li>Python</li>
 </ul>
 Databases
 <ul>
-    <li>MariaDb</li>
-    <li>MongoDb</li>
     <li>ChromaDb</li>
 </ul>
 Tools
 <ul>
     <li>Jenkins</li>
-    <li>Docker</li>
-    <li>IntellijIdea</li>
-    <li>MicroEj</li>
     <li>Visual studio code</li>
-    <li>Altassian tools</li>
+    <li>Emacs</li>
+    <li>Wsl</li>
 </ul>
 <!---
 ossirytk/ossirytk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
