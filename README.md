@@ -4,8 +4,8 @@ I'm a Senior Embedded Devops engineer from Finland.
 <ul>
     <li>I'm interested in llm and AI technologies</li>
         <ul>
-            <li>AI memory with vector databases and natural language processing</li>
-            <li>Chatbot development with rust/li>
+            <li>AI memory with vector databases and natural language processing using rust</li>
+            <li>Audio dsp with Faust and rust</li>
             <li>Embedded device development with rust</li>
         </ul>
 </ul>
